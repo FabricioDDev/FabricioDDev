@@ -9,7 +9,7 @@
 - 💻 &nbsp;
   <h4>C#/.Net, Python/Django</h4>
 - 🌐 &nbsp;
-  <h4>HTML5, CSS3, JavaScript, Bootstrap</h4>
+  <h4>Aspx,HTML5, CSS3, JavaScript, Bootstrap</h4>
 - 🛢 &nbsp;
   <h4>Sql Server</h4>
 - ⚙️ &nbsp;
