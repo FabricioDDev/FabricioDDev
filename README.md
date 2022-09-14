@@ -1,28 +1,33 @@
-<h2> Hey there, I'm Fabricio!.</h2>
+<a href="https://github.com/FabricioDDV">
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&theme=buefy&layout=compact" />
+</a>
+
+<h2> Hey there, I'm Fabricio!.</h2> 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- &nbsp; I'm a SoftWare Development Student, .
+- &nbsp; Well, I'm a Software Student from Buenos Aires-Argentina, and yeah, i like Messi too!. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  <h4>C#/.Net, Python/Django</h4>
-- 🌐 &nbsp;
-  <h4>Aspx,HTML5, CSS3, JavaScript, Bootstrap</h4>
-- 🛢 &nbsp;
+<h3>Frameworks</h3>
+ <h4>C# + .Net Framework</h4>
+ <h4>Python + Django</h4>
+<h3>Web</h3>
+  <h4>Asp.Net</h4>
+  <h4>Html</h4>
+  <h4>Css</h4>
+  <h4>Js</h4>
+  <h4>Bootstrap</h4>
+<h3>Data Base</h3>
   <h4>Sql Server</h4>
-- ⚙️ &nbsp;
-  <h4>Git, Github</h4>
-- 🔧 &nbsp;
-  <h4>VisualStudio, VisualStudioCode</h4>
-
+<h3>Version Control System</h3>
+  <h4>Git</h4>
+  <h4>Github</h4>
+<h3>IDE/Code Editor</h3>
+  <h4>Visual Studio</h4>
+  <h4>Visual Studio Code</h4>
 <br/>
-
-<a href="https://github.com/FabricioDDV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioDDev&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
