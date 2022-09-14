@@ -34,6 +34,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/fabricio-di-paola-409921247"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabricio%20DiPaola%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="fabriciodamiandipaola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fabriciodamiandipaola@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="www.linkedin.com/in/fabricio-di-paola-409921247">My Linkedin</a>
 </p>
