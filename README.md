@@ -12,7 +12,7 @@
 
 <h3>Frameworks</h3>
  <h4>C# + .Net Framework</h4>
- <h4>Python + Django</h4>
+ <h4>Java + spring</h4>
 <h3>Web</h3>
   <h4>Asp.Net</h4>
   <h4>Html</h4>
@@ -32,7 +32,3 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-  <a href="www.linkedin.com/in/fabricio-di-paola-409921247">My Linkedin</a>
-</p>
