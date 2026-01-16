@@ -26,11 +26,9 @@ Focused on building a strong technical foundation through personal projects and 
 
 ## 📊 GitHub Stats
 
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=default&hide_rank=true)
+![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioDDev&show_icons=true&theme=default&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact)
-
-> Las estadísticas se actualizarán automáticamente a medida que publique proyectos.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&layout=compact)
 
 ---
 
