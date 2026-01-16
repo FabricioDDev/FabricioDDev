@@ -24,26 +24,15 @@ Focused on building a strong technical foundation through personal projects and 
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=FabricioDDev&show_icons=true&hide=issues,prs&hide_rank=true&cache_seconds=86400"
-  alt="GitHub Stats"
-/>
+## 📊 GitHub Stats
 
-<br/>
+![Stats de Fabricio](https://github-readme-stats.vercel.app/api?username=FabricioDDev&show_icons=true&theme=visual_studio_code&border_radius=10)
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDDev&cache_seconds=86400"
-  alt="GitHub Streak"
-/>
+![Lenguajes de Fabricio](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&layout=compact&theme=visual_studio_code&border_radius=10)
 
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&layout=compact&cache_seconds=86400"
-  alt="Top Languages"
-/>
+![Racha de Fabricio](https://github-readme-streak-stats.herokuapp.com/?user=FabricioDDev&theme=visual_studio_code&border_radius=10)
 
 ---
 
@@ -68,7 +57,7 @@ Repositories will be published progressively.
 
 ## 📫 Contact
 
-- LinkedIn: *(add link)*
+- [LinkedIn](https://linkedin.com/in/TU_PERFIL)
 
 ---
 
