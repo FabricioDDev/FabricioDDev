@@ -1,19 +1,62 @@
-<div align="center">
-  <h1>Hello there!</h1>
-</div>
+# Hi, I'm Fabricio 👋
 
-![WhatsApp Image 2023-09-14 at 19 02 35](https://github.com/FabricioDDev/FabricioDDev/assets/111092778/74d3e4c3-0bc1-4b8c-8498-6fc10541ba89)
+Student of Programming at UTN and current Sales / Customer Service professional transitioning into IT.  
+Focused on building a strong technical foundation through personal projects and continuous learning.
 
-<h2>My name is FABRICIO, from Buenos Aires, Argentina. During the last 2 years, I have been studying programming for myself, courses, and bootcamps(Oracle ONE, Telecom DIGIT@LERS). I´m loving this area, Now I'm keeping creating and innovating with colaboratives and individuals proyects. I'm decided to be a better professional developer.
-</h2>
+---
 
-<a href="https://github.com/FabricioDDV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&theme=buefy&layout=compact" />
-</a>
+## 👨‍💻 About me
 
+- 🎓 Programming student (UTN)
+- 💼 Background in customer service and sales
+- 💻 Interested in backend development and databases
+- 📈 Building personal projects to strengthen practical skills
+- 🎯 Goal: first opportunity as a Junior Developer
 
+---
 
+## 🛠 Tech Stack
 
+- **Languages:** C++, C#
+- **Databases:** SQL Server
+- **Tools:** Git, GitHub
+- **Concepts:** OOP, basic data structures, SQL queries
 
+---
 
+## 📊 GitHub Stats
 
+![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=default&hide_rank=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact)
+
+> Las estadísticas se actualizarán automáticamente a medida que publique proyectos.
+
+---
+
+## 📂 Projects
+
+Currently working on personal projects focused on:
+- Applying programming fundamentals
+- Clean code and good practices
+- Realistic use cases (CRUD, data handling, logic)
+
+Repositories will be published progressively.
+
+---
+
+## 📚 Currently learning
+
+- Advanced C# (.NET fundamentals)
+- SQL optimization and database design
+- Version control workflows with Git
+
+---
+
+## 📫 Contact
+
+- LinkedIn: *(add link)*
+
+---
+
+> Building step by step. Consistency over speed.
