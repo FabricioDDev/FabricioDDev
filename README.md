@@ -24,11 +24,26 @@ Focused on building a strong technical foundation through personal projects and 
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
-![Fabricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioDDev&show_icons=true&theme=default&hide_rank=true)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=FabricioDDev&show_icons=true&hide=issues,prs&hide_rank=true&cache_seconds=86400"
+  alt="GitHub Stats"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&layout=compact)
+<br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FabricioDDev&cache_seconds=86400"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioDDev&layout=compact&cache_seconds=86400"
+  alt="Top Languages"
+/>
 
 ---
 
