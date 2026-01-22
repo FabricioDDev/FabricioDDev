@@ -18,14 +18,12 @@ Focused on building a strong technical foundation through personal projects and 
 ## 🛠 Tech Stack
 
 - **Languages:** C++, C#
+- **Framework:** .NET framework
 - **Databases:** SQL Server
 - **Tools:** Git, GitHub
 - **Concepts:** OOP, basic data structures, SQL queries
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 ![Stats de Fabricio](https://github-readme-stats.vercel.app/api?username=FabricioDDev&show_icons=true&theme=visual_studio_code&border_radius=10)
@@ -34,30 +32,12 @@ Focused on building a strong technical foundation through personal projects and 
 
 ![Racha de Fabricio](https://github-readme-streak-stats.herokuapp.com/?user=FabricioDDev&theme=visual_studio_code&border_radius=10)
 
----
-
-## 📂 Projects
-
-Currently working on personal projects focused on:
-- Applying programming fundamentals
-- Clean code and good practices
-- Realistic use cases (CRUD, data handling, logic)
-
-Repositories will be published progressively.
-
----
-
-## 📚 Currently learning
-
-- Advanced C# (.NET fundamentals)
-- SQL optimization and database design
-- Version control workflows with Git
 
 ---
 
 ## 📫 Contact
 
-- [LinkedIn](https://linkedin.com/in/TU_PERFIL)
+- [LinkedIn](https://www.linkedin.com/in/fabricio-di-paola?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
